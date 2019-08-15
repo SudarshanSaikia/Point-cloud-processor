@@ -1,0 +1,8 @@
+logs.py
+setup.py
+Logistic.egg-info/PKG-INFO
+Logistic.egg-info/SOURCES.txt
+Logistic.egg-info/dependency_links.txt
+Logistic.egg-info/entry_points.txt
+Logistic.egg-info/requires.txt
+Logistic.egg-info/top_level.txt

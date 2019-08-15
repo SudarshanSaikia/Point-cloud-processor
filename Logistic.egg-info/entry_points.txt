@@ -1,0 +1,8 @@
+
+        [console_scripts]
+
+    #log is the command that calls the cli function from the file logs.py
+        ground=logs:ground
+        non_ground=logs:non_ground
+        train=logs:train
+    
